@@ -8,6 +8,6 @@ This portfolio is a great way to showcase your work and skills. It's built using
 
 ## Credits
 
-Icons: Icons used in this project were sourced from [Devicon](https://devicon.dev/) and Material Design Icons.
-Fonts: Fonts used in this project are from [Google Fonts](https://fonts.google.com/): Playfair Display and Roboto.
-Stock Photos: Placeholder images can be downloaded from [Picsum](https://picsum.photos/).
+- Icons: Icons used in this project were sourced from [Devicon](https://devicon.dev/) and Material Design Icons.
+- Fonts: Fonts used in this project are from [Google Fonts](https://fonts.google.com/): Playfair Display and Roboto.
+- Stock Photos: Placeholder images can be downloaded from [Picsum](https://picsum.photos/).
